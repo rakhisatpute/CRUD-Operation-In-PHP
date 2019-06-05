@@ -1,0 +1,26 @@
+tr:hover{cursor: pointer}
+
+
+
+     
+
+th{
+  background-color: gray;
+  font-size: 20px;
+}
+       table tr td a { display:none;}
+  table tr:hover td a { display:inline-block;}
+  
+  body
+  {
+  	background-color: black;
+  	color: white
+  }
+  table, th, td{
+  	  margin: 0px auto;
+  	  border: 1px solid black;
+  }
+
+  h1{
+  	text-align: center;
+  }
